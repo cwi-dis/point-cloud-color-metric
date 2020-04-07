@@ -1,5 +1,7 @@
 # A color-based objective quality metric for point cloud contents
 
+MATLAB implementation for the paper "A color-based objective quality metric for point cloud contents", by Irene Viola, Shishir Subramanyam and Pablo Cesar.
+
 In recent years, point clouds have gained popularity as a promising representation for volumetric contents in immersive scenarios. Standardization bodies such as MPEG have been developing new compression standards for point cloud contents to reduce the volume of data, while maintaining an acceptable level of visual quality. To do so, reliable metrics are needed in order to automatically estimate the perceptual quality of degraded point cloud contents. Whereas several objective metrics have been developed to assess the geometrical impairment of degraded point cloud contents, fewer publications have been devoted to evaluating color artifacts.
 In this paper, we propose new color-based objective metrics for quality evaluation of point cloud contents. Our work extracts color statistics from both reference and degraded point cloud contents, in order to assess the level of impairment.
 Using publicly available ground-truth data, we compare the performance of our proposed work with state-of-the-art metrics, and we demonstrate how the color metrics are able to achieve comparable results with respect to widely adopted solutions. 
