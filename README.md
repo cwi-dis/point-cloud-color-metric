@@ -1,4 +1,4 @@
-# A color-based objective quality metric for point cloud contents
+# Hist_Y: A color-based objective quality metric for point cloud contents
 
 MATLAB implementation for the paper "A color-based objective quality metric for point cloud contents", by Irene Viola, Shishir Subramanyam and Pablo Cesar.
 
